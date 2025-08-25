@@ -13,3 +13,12 @@ Today, I finished the schematics. It currently has a microcontroller unit on it,
 ![Schematic](Images/august_23.png)
 
 **Time spent:** 44min
+
+# 24 & 25 August 2025
+## Finished creating the PCB
+
+Today, I added QR codes to my card and added wireless capabilities to it too. It has a MCU which would light 2 LEDs as output. I also faced issues calculating the appropriate values for generating the antenna.
+
+![PCB](Images/august_25.png)
+
+**Time spent:** 1h 57min
